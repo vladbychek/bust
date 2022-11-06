@@ -1,0 +1,37 @@
+.title{
+   background-image: url(../img/new-bg123.jpg);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   width: 100%;
+   height: 341px;
+}
+.title_contaier{
+   width: 1170px;
+   margin: 0 auto;
+   padding-top: 90px;
+}
+.title_title{
+   font-size: 48px;
+   color: white;
+   text-align: center;
+   line-height: 57px;
+}
+.title__text{
+   display: flex;
+   font-size: 11px;
+   justify-content: center;
+}
+.title__text_one_link:visited{
+   color: white;
+}
+.title__text_one_link{
+   text-decoration: none;
+   padding-right: 7px;
+}
+.title__text_one_link:hover{
+   color: yellow;
+}
+.title__text_two{
+   color: #9a9da2;
+}

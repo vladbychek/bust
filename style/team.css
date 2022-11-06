@@ -1,0 +1,81 @@
+.team{
+   width: 700px;
+   margin: 50px auto;
+}
+.team_title{
+   font-size: 30px;
+   text-align: center;
+}
+.team_separator{
+   width: 80px;
+   height: 3px;
+   margin: 25px auto;
+   background-color: #00FF00;
+}
+.team_info{
+   display: flex;
+}
+.team_info_busters_title{
+   font-size: 18px;
+   text-align: center;
+   margin-bottom: 30px;
+   font-weight: bold;
+}
+.team_info_busters_items_left_img{
+   width: 105px;
+   height: 105px;
+   border-radius: 50%;
+   display: block;
+   margin: 0 auto 10px;
+}
+.team_info_busters_items_left{
+   width: 125px;
+}
+.team_info_busters_item{
+   display: flex;
+   margin-bottom: 20px
+}
+.team_info_busters_items_right{
+   padding: 25px 0 0 15px;
+}
+.team_info_busters_items_left_name{
+   text-align: center;
+}
+.team_info_busters{
+   width: 50%;
+   margin: 0 auto;
+}
+.team_info_busters_items_right_wr{
+   margin: 5px 0 5px
+}
+.team_info_stats{
+   width: 50%;
+}
+.team_info_stats_items{
+   display: flex;
+   flex-wrap: wrap;
+   gap: 40px;
+}
+.team_info_stats_title{
+   text-align: center;
+   margin-bottom: 30px;
+   font-weight: bold;
+}
+.team_info_stats_items_item_img{
+   width: 70px;
+   height: 70px;
+   display: block;
+   margin: 0 auto 5px;
+}
+.team_info_stats_items_item_number{
+   text-align: center;
+   font-weight: bold;
+   font-size: 18px;
+   margin-bottom: 5px;
+}
+.team_info_stats_items_item_text{
+   width: 90px;
+   text-align: center;
+   font-size: 15px;
+   margin: 0 auto;
+}
