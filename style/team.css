@@ -50,11 +50,12 @@
 }
 .team_info_stats{
    width: 50%;
+   margin-left: 15px;
 }
 .team_info_stats_items{
    display: flex;
    flex-wrap: wrap;
-   gap: 40px;
+   gap: 30px;
 }
 .team_info_stats_title{
    text-align: center;
@@ -78,4 +79,9 @@
    text-align: center;
    font-size: 15px;
    margin: 0 auto;
+}
+.separator_team{
+   background-color: black;
+   width: 1px;
+   height: 350px;
 }

@@ -1,0 +1,46 @@
+.drow{
+   width: 100%;
+   height: 700px;
+   background-image: url(../img/why_we_1.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+}
+.container_drow{
+   width: 1170px;
+   margin-left:900px;
+}
+.drow_title{
+   font-size: 34px;
+   color: white;
+   font-weight: 900;
+   line-height: 37px;
+   text-align: center;
+   display: block;
+   padding-top: 40px;
+   color: #28b661;
+}
+.drow_item{
+   display: flex;
+   margin-bottom: 50px;
+   margin-left: 360px;
+}
+.items_drow{
+   margin-top: 50px;
+}
+.drow_item_img{
+   width: 115px;
+   height: 115px;
+}
+.drow_right_title{
+   font-size: 28px;
+   color: white;
+   font-weight: 500;
+   line-height: 30px;
+}
+.drow_right_list{
+   color: rgba(255,255,255,.5);
+   font-size: 16px;
+   line-height: 26px;
+   margin-left: 20px;
+}

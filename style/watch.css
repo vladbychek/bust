@@ -1,0 +1,34 @@
+.watch_container{
+   width: 1170px;
+   margin: 100px auto;
+   display: flex;
+}
+.left_watch_title{
+   font-size: 26px;
+   line-height: 28px;
+}
+.watch_span{
+   font-weight: bold;
+}
+.left_watch_text{
+   font-size: 16px;
+   padding: 50px 0 50px;
+   line-height: 26px;
+}
+.right_watch{
+   width: 555px;
+   height: 555px;
+}
+.left_watch_btn{
+   border: 1px solid black;
+   background-color: white;
+   padding: 10px 15px;
+   display: block;
+   margin: 0 auto;
+   margin-top: 50px;
+   cursor: pointer;
+}
+.left_watch_btn:hover{
+   background-color: black;
+   color: white; 
+}
