@@ -8,7 +8,8 @@
 }
 .container_drow{
    width: 1170px;
-   margin-left:900px;
+   margin: 0 auto;
+   padding-left: 550px;
 }
 .drow_title{
    font-size: 34px;
